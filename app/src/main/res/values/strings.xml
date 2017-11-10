@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="find_button">Find</string>
+    <string name="sort_button">Sort</string>
+    <string name="add_button">Add</string>
+    <string name="edit_button">Edit</string>
+    <string name="first_name">first name</string>
+    <string name="last_name">last name</string>
+    <string name="address">address</string>
+    <string name="phone">phone no.</string>
+    <string name="email">email</string>
+</resources>
